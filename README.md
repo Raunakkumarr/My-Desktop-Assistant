@@ -5,5 +5,6 @@
 3. Opens some of my listed websites that I use frequently.
 4. Opens some of my listed windows apps that I use frequently.
 5. Sends email to a particular person without attachment.
+6. Tells me jokes whenever I say.
 
 # More features are yet to be added.
