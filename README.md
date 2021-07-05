@@ -6,4 +6,4 @@
 4. Opens some of my listed windows apps that I use frequently.
 5. Sends email to a particular person without attachment.
 
-#More features are yet to be added.
+# More features are yet to be added.
